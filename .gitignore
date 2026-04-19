@@ -1,3 +1,6 @@
+scraping_and_analysis/scraped_data
+node_modules
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

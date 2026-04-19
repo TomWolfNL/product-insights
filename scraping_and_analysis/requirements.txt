@@ -1,0 +1,6 @@
+nltk
+langdetect
+argostranslate
+playwright
+requests
+beautifulsoup4
